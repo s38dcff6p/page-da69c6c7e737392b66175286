@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fc398372924872adc7c4f6d3",
+  "owner": "s38dcff6p",
+  "repo": "page-da69c6c7e737392b66175286",
+  "title": "yecao",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da69c6c7e737392b66175286",
+      "a": "yecao",
+      "b": "2027官方最新地址导航",
+      "entity": "yecao",
+      "brand": "yecao",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c2c0e82b93558960043f772474a27607b3437d095d2d445ee5b5fd865746d6b3",
+      "content": {
+        "primary_entity": "yecao",
+        "keyword1": "yecao",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，yecao 提供多档订阅方案，基础版、旗舰版与团队版分别对应轻量浏览、多设备日常与团队协作场景。旗舰版搭载 IPLC 专线，适合对延迟敏感的游戏与实时应用；团队版支持 20 台设备同时在线，并提供企业定制路由选项。",
+          "AI_HERO_SUBTITLE": "yecao 多设备全球加速选择",
+          "AI_HERO_INTRO": "yecao 是面向海外网络访问场景的加速服务品牌，提供基础版、旗舰版与团队版三档订阅。用户可根据每月流量、同时在线设备数量与线路需求，选择适合个人或团队使用的方案。",
+          "AI_VISUAL_TITLE": "yecao 加速方案概览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案较月付节省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量规模、设备数量与线路类型三个维度判断合适方案。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线，团队版可申请定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同设备安装对应客户端后导入订阅信息即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。流量与设备数按档递增，旗舰版额外提供 IPLC 专线与优先工单支持。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确定套餐，再检查设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择订阅方案",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数量，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端支持情况，团队版需统计同时在线人数。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档添加订阅信息，完成后即可连接加速节点。",
+          "AI_CLOSING_TITLE": "选定方案开始连接",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑一档套餐，完成订阅导入即可使用 yecao 加速服务。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备；旗舰版每月300GB，支持5台设备并含IPLC专线；团队版每月1000GB，支持20台设备。根据日常用量和设备数量挑选即可。",
+          "AI_FAQ_ANSWER_2": "年付比月付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元。长期使用建议直接选择年付方案。",
+          "AI_FAQ_ANSWER_3": "先在设备上安装对应系统的客户端，再从订阅管理页复制订阅链接导入客户端，按文档指引完成节点更新即可使用。",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。选定套餐后可在订阅管理页查看当前在线设备情况。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁，并针对游戏场景用IPLC专线优化，团队版则有VIP高带宽节点，可按主要用途选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么查看？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速支持哪些套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ksetd.cn",
+    "host": "ksetd.cn"
+  },
+  "file_hashes": {
+    "index.html": "21aee2ca58da4d511a4f0d59355a729646b35d3c0d9de31f0e931a87fdd4f9d7",
+    "sitemap.xml": "272996fb8b1ec56899cc0fcec5ebd7d2652b43f5909aab4f5ee2ff6c79783de0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bd402fe7cb98b094b5f8a9e6cb6a9b3fa8efbe53d78b085ca366c4d2e3835937",
+    "robots.txt": "f69c9a6b26dbc6cb00dfc73f0b36aa16a11d5c4d93183181470e3e363b5d1965",
+    "139f886c4ef70bd3ac5c30abe06b2298.txt": "beb3f178e42b52ba6639909c59c214e2aa32adb66641c28809333747729bad05"
+  },
+  "revision": "a4664ec81aae6ef0b5d0efbd99e01a8493eb49d8c157532676f3c2fdbcb032c4"
+}
